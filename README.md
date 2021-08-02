@@ -10,9 +10,6 @@ Expected Input -
 • Select Specific Seat Number
 
 
-![1)welcome](https://user-images.githubusercontent.com/77475628/127907422-ff14d384-629a-4f0c-a74b-5f0f8c9e901f.png)
-
-
 Expected Output -
 
 • Successful booking of Movie show seat
@@ -31,3 +28,5 @@ Linked list-
 Linked list is used for storing the data of reserved seat with
 dynamic memory allocation. Since the data can be easily access using
 the linked list without wasting the memory.
+
+![29)in change movie name can add or remove movie options](https://user-images.githubusercontent.com/77475628/127907561-6f0106c3-4720-4618-b6f5-7cf8d0c033c4.png)
