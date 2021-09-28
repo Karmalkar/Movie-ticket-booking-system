@@ -107,6 +107,7 @@
 	{	
 		int size;
 		fp=fopen("i1mnse.dat","rb+");
+		if(fp==NULL) { fp=fopen("i1mnse.dat","wb+"); }
 		fread(&vinfo,sizeof(vinfo),1,fp);
 		fseek(fp,0,SEEK_END);
 		size=ftell(fp);
